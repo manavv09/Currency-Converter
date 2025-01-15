@@ -1,2 +1,2 @@
 # Currency-Converter
-This app is used for converting the currency rate.
+This app is used to convert the currency rate.
